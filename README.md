@@ -2,7 +2,7 @@
 
 Finance guy who read about a guy
 [making $50K a day from a game he built in a few nights](https://www.theverge.com/2014/2/5/5383708/flappy-bird-revenue-50-k-per-day-dong-nguyen-interview),
-thought "how hard can it be?", and has been writing iOS apps ever since.
+thought "how hard can it be?".
 Lately most of my free time goes into AI: running models on a DGX Spark at home
 and building small tools around them.
 
